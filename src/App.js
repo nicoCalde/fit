@@ -1,10 +1,14 @@
+import React from 'react';
 import './App.css';
+
+import { BrowserRouter, Route } from 'react-router-dom';
+import Routes from './config/Routes.jsx';
 
 function App() {
   return (
-    <div className="App">
-      <div className="">Hola</div>
-    </div>
+    <BrowserRouter>
+      <Route component={Routes}/>
+    </BrowserRouter>
   );
 }
 
