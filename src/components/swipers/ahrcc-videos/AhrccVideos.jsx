@@ -4,7 +4,7 @@ import cocina from '../../../assets/vid/isegh/2.CocinaProfesional.mp4';
 import bartender from '../../../assets/vid/isegh/3.Bartender.mp4';
 import pasteleria from '../../../assets/vid/isegh/4.Pasteleria.mp4';
 
-import './styles.css'
+import './ahrcc-videos.css'
 
 const AhrccVideos = () => {
   return (

@@ -1,0 +1,14 @@
+.video-container {
+  display: flex;
+  flex-direction: row;
+  overflow-x: auto;
+  white-space: nowrap;
+  width: 100%;
+  max-width: 100%;
+}
+
+iframe {
+  height: 500px;
+  width: auto;
+  max-width: 100%;
+}

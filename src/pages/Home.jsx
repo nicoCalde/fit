@@ -2,7 +2,7 @@ import React from 'react';
 import VideoButton from '../components/video-button/VideoButton';
 import AhrccVideos from '../components/swipers/ahrcc-videos/AhrccVideos';
 import IseghVideos from '../components/swipers/isegh-videos/IseghVideos';
-
+import Links from '../components/swipers/links/Links';
 
 import '../assets/style/home.css';
 import logoA from '../assets/img/logo-AHRCC.png';
@@ -38,6 +38,18 @@ const Home = () => {;
             <div className="swiper">
                 <h1>| ISEGH Videos</h1>
                 <IseghVideos />
+            </div>
+            <div className="swiper">
+                <h1>| AHRCC Imagenes</h1>
+                
+            </div>
+            <div className="swiper">
+                <h1>| AHRCC Imagenes</h1>
+                
+            </div>
+            <div className="swiper">
+                <h1>| Links</h1>
+                <Links />
             </div>
         </div>
     </div>
