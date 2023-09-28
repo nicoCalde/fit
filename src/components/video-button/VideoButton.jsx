@@ -17,20 +17,16 @@ const VideoButton = () => {
   return (
     <div className="video-button-container">
       <button className='open-button' onClick={openModal}>Ver Video</button>
-
+      
       {isModalOpen && (
-        <div className="video-modal">
-          <iframe
-            title="Video"
-            width="560"
-            height="315"
-            src={presentacion}
-            frameBorder="0"
-            allowFullScreen
-          ></iframe>
-          <button className='close-button' onClick={closeModal}>X</button>
+        <div className="modal-overlay">
+          <div className="video-modal">
+            <iframe title="BA Gastro y Hotel" src={presentacion}></iframe>
+            <button className='close-button' onClick={closeModal}>X</button>
+          </div>
         </div>
       )}
+      
     </div>
   );
 };
