@@ -1,0 +1,10 @@
+/* CSS */
+.video-container {
+  display: flex;
+  flex-direction: row; /* Arrange the iframes in a horizontal row */
+  overflow-x: auto; /* Add horizontal scrolling if needed */
+}
+
+iframe {
+  height: 500px;
+}

@@ -55,3 +55,30 @@
     font-weight: 900;
     line-height: normal;
 }
+
+.swiper-group {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    box-sizing: border-box;
+    row-gap: 60px;
+}
+  
+.swiper {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 0;
+    box-sizing: border-box;
+    row-gap: 20px;
+}
+
+h1{
+    background: linear-gradient(90deg, #1523C4 0%, #0584BD 62.23%, #08D98E 123.18%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 400;
+}
