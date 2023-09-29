@@ -1,6 +1,7 @@
 import React from 'react';
 import VideoButton from '../components/video-button/VideoButton';
 import IseghVideos from '../components/swipers/isegh-videos/IseghVideos';
+import IseghImgs from '../components/swipers/isegh-img/IseghImgs'
 import Links from '../components/swipers/links/Links';
 
 import '../assets/style/home.css';
@@ -36,7 +37,7 @@ const Home = () => {;
             </div>
             <div className="swiper">
                 <h1>| ISEGH Imagenes</h1>
-                
+                <IseghImgs />
             </div>
             <div className="swiper">
                 <h1>| AHRCC Links</h1>
