@@ -6,7 +6,7 @@ import Home from '../pages/Home'
 const Routes = () => {
   return (
     <Switch>
-      <Route path='/' exact component={Home}/>
+      <Route path='/fit' exact component={Home}/>
     </Switch>
   );
 }
