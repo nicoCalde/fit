@@ -1,6 +1,5 @@
 import React from 'react';
 import VideoButton from '../components/video-button/VideoButton';
-import AhrccVideos from '../components/swipers/ahrcc-videos/AhrccVideos';
 import IseghVideos from '../components/swipers/isegh-videos/IseghVideos';
 import Links from '../components/swipers/links/Links';
 
@@ -32,23 +31,15 @@ const Home = () => {;
         </div>
         <div className="swiper-group">
             <div className="swiper">
-                <h1>| AHRCC Videos</h1>
-                <AhrccVideos />
-            </div>
-            <div className="swiper">
                 <h1>| ISEGH Videos</h1>
                 <IseghVideos />
             </div>
             <div className="swiper">
-                <h1>| AHRCC Imagenes</h1>
+                <h1>| ISEGH Imagenes</h1>
                 
             </div>
             <div className="swiper">
-                <h1>| AHRCC Imagenes</h1>
-                
-            </div>
-            <div className="swiper">
-                <h1>| Links</h1>
+                <h1>| AHRCC Links</h1>
                 <Links />
             </div>
         </div>
