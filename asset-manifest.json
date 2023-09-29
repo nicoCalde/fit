@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/fit/static/css/main.ac019641.css",
+    "main.js": "/fit/static/js/main.8c91249c.js",
+    "static/js/787.73c6e186.chunk.js": "/fit/static/js/787.73c6e186.chunk.js",
+    "static/media/BaGastro&Hotel.mp4": "/fit/static/media/BaGastro&Hotel.2f86a9fcf92c10741ebf.mp4",
+    "static/media/1.GestiónDeFrontOffice.mp4": "/fit/static/media/1.GestiónDeFrontOffice.04073688f74e984e5914.mp4",
+    "static/media/3.Bartender.mp4": "/fit/static/media/3.Bartender.500385a74e692ab1b2e5.mp4",
+    "static/media/2.CocinaProfesional.mp4": "/fit/static/media/2.CocinaProfesional.d39f1132751511992d1a.mp4",
+    "static/media/4.Pasteleria.mp4": "/fit/static/media/4.Pasteleria.45c2ab82d6b60d06846c.mp4",
+    "static/media/collage_imagenes.png": "/fit/static/media/collage_imagenes.7a197a57ed8d825d0fc1.png",
+    "static/media/MapaInteractivo.png": "/fit/static/media/MapaInteractivo.f4646ad8d96690012621.png",
+    "static/media/CamaraConfiterias.png": "/fit/static/media/CamaraConfiterias.611f772fa91371e2c1e6.png",
+    "static/media/CamaraRestaurantes.png": "/fit/static/media/CamaraRestaurantes.fe5dd9225fc687df9c1d.png",
+    "static/media/CamaraCafes.png": "/fit/static/media/CamaraCafes.8c4a147065c49952fecf.png",
+    "static/media/CamaraHoteles.png": "/fit/static/media/CamaraHoteles.083cec3196f88e87668d.png",
+    "index.html": "/fit/index.html",
+    "main.ac019641.css.map": "/fit/static/css/main.ac019641.css.map",
+    "main.8c91249c.js.map": "/fit/static/js/main.8c91249c.js.map",
+    "787.73c6e186.chunk.js.map": "/fit/static/js/787.73c6e186.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac019641.css",
+    "static/js/main.8c91249c.js"
+  ]
+}
