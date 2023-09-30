@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fit/static/css/main.a6be3e69.css",
-    "main.js": "/fit/static/js/main.a7c20509.js",
+    "main.css": "/fit/static/css/main.2c75dd60.css",
+    "main.js": "/fit/static/js/main.db692f29.js",
     "static/js/787.73c6e186.chunk.js": "/fit/static/js/787.73c6e186.chunk.js",
     "static/media/BaGastro&Hotel.mp4": "/fit/static/media/BaGastro&Hotel.2f86a9fcf92c10741ebf.mp4",
     "static/media/1.GestiónDeFrontOffice.mp4": "/fit/static/media/1.GestiónDeFrontOffice.04073688f74e984e5914.mp4",
@@ -30,12 +30,12 @@
     "static/media/CamaraCafes.png": "/fit/static/media/CamaraCafes.8c4a147065c49952fecf.png",
     "static/media/MapaInteractivo.png": "/fit/static/media/MapaInteractivo.c71609afed88d609f705.png",
     "index.html": "/fit/index.html",
-    "main.a6be3e69.css.map": "/fit/static/css/main.a6be3e69.css.map",
-    "main.a7c20509.js.map": "/fit/static/js/main.a7c20509.js.map",
+    "main.2c75dd60.css.map": "/fit/static/css/main.2c75dd60.css.map",
+    "main.db692f29.js.map": "/fit/static/js/main.db692f29.js.map",
     "787.73c6e186.chunk.js.map": "/fit/static/js/787.73c6e186.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6be3e69.css",
-    "static/js/main.a7c20509.js"
+    "static/css/main.2c75dd60.css",
+    "static/js/main.db692f29.js"
   ]
 }
