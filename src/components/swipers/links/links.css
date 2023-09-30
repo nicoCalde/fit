@@ -1,16 +1,19 @@
 .links-container {
     display: flex;
-    flex-direction: row;
-    overflow-x: auto;
-    max-width: 100%;
+    width: 100%;
     gap: 20px;
-    white-space: nowrap;
+    margin-bottom: 50px;
 }
 
 .links-container a {
-    display: inline-block;
-    width: 10%;
+    display: grid;
+    width: 100%;
     height: auto;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    align-content: space-between;
+    text-decoration: none;
 }
 
 .links-container img {
@@ -18,17 +21,7 @@
     height: auto;
 }
 
-@media (max-width: 1200px) {
-    .links-container a {
-        width: 15%;
-    }
-}
-
-@media (max-width: 800px) {
-    .links-container{
-        gap: 10px;
-    }
-    .links-container a {
-        width: 20%;
-    }
+.links-container h2{
+    font-size: 15px;
+    text-align: center;
 }
