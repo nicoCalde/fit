@@ -1,27 +1,30 @@
 .links-container {
     display: flex;
-    width: 100%;
+    overflow-x: auto;
     gap: 20px;
-    margin-bottom: 50px;
+    align-items: center;
+    align-items: stretch;
+    margin-bottom: 20px;
 }
 
-.links-container a {
+.links-container > a {
     display: grid;
-    width: 100%;
-    height: auto;
+    grid-template-rows: auto auto;
     align-items: center;
-    justify-content: center;
-    justify-items: center;
-    align-content: space-between;
+    text-align: center;
     text-decoration: none;
 }
 
 .links-container img {
-    width: 100%;
-    height: auto;
+    max-width: 100%;
 }
 
-.links-container h2{
+.links-container h2 {
     font-size: 15px;
-    text-align: center;
 }
+
+@media (max-width:800px) {
+    .links-container h2 {
+        font-size: 10px;
+    }
+} 
