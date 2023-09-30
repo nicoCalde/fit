@@ -13,3 +13,9 @@
     width: auto;
     max-width: 100%;
 }
+
+@media (max-width: 800px) {
+    .imgs-container>img {
+        height: 350px;
+    }
+}

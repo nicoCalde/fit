@@ -36,7 +36,7 @@ const Home = () => {;
                 <IseghVideos />
             </div>
             <div className="swiper">
-                <h1>| ISEGH Imagenes</h1>
+                <h1>| ISEGH 2024</h1>
                 <IseghImgs />
             </div>
             <div className="swiper">
